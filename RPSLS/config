@@ -1,0 +1,13 @@
+DELAY=1
+EDGE=750
+MARGIN=25
+backGroundColor=#BFBFBF
+hurlEdge=180
+hurlMargin=30
+numberOfPieces=100
+minStartingSpeed=1
+maxStartingSpeed=3
+speedConstant=3
+UIColor=#000000
+simulationRestartWaitTime=5000
+simulationStartCountDown=3

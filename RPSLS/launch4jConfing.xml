@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\arash\OneDrive\Documents\2023 Interntship application\RPSLS\out\artifacts\RPSLS_jar\RPSLS.jar</jar>
+  <outfile>C:\Users\arash\OneDrive\Documents\2023 Interntship application\RPSLS\RPSLS.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>true</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\arash\OneDrive\Documents\2023 Interntship application\RPSLS\files\sheldonCooper.ico</icon>
+  <jre>
+    <path>%JAVA_HOME%;%PATH%</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion></minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.0.0.0</fileVersion>
+    <txtFileVersion>N/A</txtFileVersion>
+    <fileDescription>Rock Papaer Scissors Lizar Spock</fileDescription>
+    <copyright>Arash Khavaran</copyright>
+    <productVersion>1.0.0.0</productVersion>
+    <txtProductVersion>N/A</txtProductVersion>
+    <productName>RPSLS</productName>
+    <companyName>1</companyName>
+    <internalName>RPSLS</internalName>
+    <originalFilename>RPSLS.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>ENGLISH_US</language>
+  </versionInfo>
+</launch4jConfig>
